@@ -43,9 +43,6 @@ img:hover{
     float:left;
     margin:10%;
 }
-  h1{
-    text-align:center;
-  }
 }
 @media screen and (min-width:400px) and (max-width:750px){
   img{
@@ -54,9 +51,6 @@ img:hover{
     margin:4%;
     float:left;
   }
-  h1{
-    text-align:center;
-  } 
 } 
   
   
